@@ -3,11 +3,14 @@
 1. Homebrew/terminal/bash
 1. OSX Productivity - Window Management/Quick Launcher/Hyperswitch
 1. OSX Settings - Dock/Finder
-1. Web Browser - Extensions - AdBlock, Privacy Badger, OneTab, JSONViewer, Stylus, Vue Devtools, React Devtools 
+1. Web Browser - Extensions - UBlock Origin, AdBlock, Privacy Badger, OneTab, JSONViewer, Stylus(Github dark); tampermonkey, Vue Devtools, React Devtools 
 1. Node.js - nvm
 1. Code Editor - vs code
 1. Code Editor Extensions
 1. Break timer and Flux
+1. iStat Menus
+1. for more info: https://www.youtube.com/watch?v=tMNOpaQrfAE
+
 
 # xcode-select --install
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
