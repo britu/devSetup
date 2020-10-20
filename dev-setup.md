@@ -11,6 +11,19 @@
 1. iStat Menus
 1. for more info: https://www.youtube.com/watch?v=tMNOpaQrfAE
 
+# Turn off mac setting
+````
+User & Group -> Login items
+
+unnessery app tracking 
+Security and privacy -> privacy -> 
+turn off unnesseery services
+privacy -> location Services -> system Services and turn it off all check
+Turn off Analytics
+Turn off advertiser
+Turn off unnecessary notification
+Turn off unnecessary extentions
+````
 
 # xcode-select --install
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
