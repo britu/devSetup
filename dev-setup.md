@@ -1,5 +1,5 @@
 # Dev Setup
-
+```
 1. Homebrew/terminal/bash
 1. OSX Productivity - Window Management/Quick Launcher/Hyperswitch
 1. OSX Settings - Dock/Finder
@@ -10,6 +10,7 @@
 1. Break timer and Flux
 1. iStat Menus
 1. for more info: https://www.youtube.com/watch?v=tMNOpaQrfAE
+```
 
 # Turn off mac setting
 ````
@@ -24,6 +25,15 @@ Turn off advertiser
 Turn off unnecessary notification
 Turn off unnecessary extentions
 ````
+
+# Node
+```
+To Clean the chase node
+ npm cache clean --force
+ rm -rf node_modules package-lock.json
+ npm install
+ npm start
+```
 
 # xcode-select --install
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
