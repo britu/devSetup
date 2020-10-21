@@ -33,6 +33,7 @@ To Clean the chase node
  rm -rf node_modules package-lock.json
  npm install
  npm start
+ killall node
 ```
 
 # xcode-select --install
