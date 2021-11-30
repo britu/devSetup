@@ -21,7 +21,11 @@
  - vim ~/.bash_profile 
  ```
  and, add below lines to ~/.bash_profile ( or ~/.zshrc for macOS Catalina or later)
- --> Press ESC + :wq to save and close your file.
+ 
+ export NVM_DIR=~/.nvm
+ source $(brew --prefix nvm)/nvm.sh
+ 
+ Press ESC + :wq to save and close your file.
  ```
  - 
 7. Code Editor - vs code
