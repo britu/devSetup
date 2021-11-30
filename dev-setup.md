@@ -22,6 +22,7 @@
  ```
  and, add below lines to ~/.bash_profile ( or ~/.zshrc for macOS Catalina or later)
  
+ ```
  export NVM_DIR=~/.nvm
  source $(brew --prefix nvm)/nvm.sh
  
