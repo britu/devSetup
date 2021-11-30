@@ -4,8 +4,26 @@
 2. Homebrew/terminal/bash : From the Homebrew website
 3. OSX Productivity - Window Management/Quick Launcher/Hyperswitch
 4. OSX Settings - Dock/Finder
-5. Web Browser - Extensions - UBlock Origin, AdBlock, Privacy Badger, OneTab, JSONViewer, Stylus(Github dark); tampermonkey, Vue Devtools, React Devtools 
+5. Web Browser - Extensions - UBlock Origin, AdBlock, Privacy Badger, OneTab, JSONViewer, Stylus(Github dark); tampermonkey, Vue Devtools, React Devtools
+```
+# NVM install
+```
 6. Node.js - nvm : https://tecadmin.net/install-nvm-macos-with-homebrew/
+ - brew update 
+ - brew install nvm 
+ ```
+ Next, create a directory for NVM in home.
+ ```
+ - mkdir ~/.nvm 
+ ```
+ Now, configure the required environment variables. Edit the following configuration file in your home directory
+ ```
+ - vim ~/.bash_profile 
+ ```
+ and, add below lines to ~/.bash_profile ( or ~/.zshrc for macOS Catalina or later)
+ --> Press ESC + :wq to save and close your file.
+ ```
+ - 
 7. Code Editor - vs code
 8. Code Editor Extensions
 9. Break timer and Flux
