@@ -1,15 +1,16 @@
 # Dev Setup
 ```
-1. Homebrew/terminal/bash
-1. OSX Productivity - Window Management/Quick Launcher/Hyperswitch
-1. OSX Settings - Dock/Finder
-1. Web Browser - Extensions - UBlock Origin, AdBlock, Privacy Badger, OneTab, JSONViewer, Stylus(Github dark); tampermonkey, Vue Devtools, React Devtools 
-1. Node.js - nvm : https://tecadmin.net/install-nvm-macos-with-homebrew/
-1. Code Editor - vs code
-1. Code Editor Extensions
-1. Break timer and Flux
-1. iStat Menus
-1. for more info: https://www.youtube.com/watch?v=tMNOpaQrfAE
+1. xcode-select --install
+2. Homebrew/terminal/bash : From the Homebrew website
+3. OSX Productivity - Window Management/Quick Launcher/Hyperswitch
+4. OSX Settings - Dock/Finder
+5. Web Browser - Extensions - UBlock Origin, AdBlock, Privacy Badger, OneTab, JSONViewer, Stylus(Github dark); tampermonkey, Vue Devtools, React Devtools 
+6. Node.js - nvm : https://tecadmin.net/install-nvm-macos-with-homebrew/
+7. Code Editor - vs code
+8. Code Editor Extensions
+9. Break timer and Flux
+10. iStat Menus
+11. for more info: https://www.youtube.com/watch?v=tMNOpaQrfAE
 ```
 
 # Turn off mac setting
