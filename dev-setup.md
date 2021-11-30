@@ -4,7 +4,7 @@
 1. OSX Productivity - Window Management/Quick Launcher/Hyperswitch
 1. OSX Settings - Dock/Finder
 1. Web Browser - Extensions - UBlock Origin, AdBlock, Privacy Badger, OneTab, JSONViewer, Stylus(Github dark); tampermonkey, Vue Devtools, React Devtools 
-1. Node.js - nvm
+1. Node.js - nvm : https://tecadmin.net/install-nvm-macos-with-homebrew/
 1. Code Editor - vs code
 1. Code Editor Extensions
 1. Break timer and Flux
